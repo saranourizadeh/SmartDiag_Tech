@@ -29,3 +29,10 @@ Clone this repository to your local machine and install the required dependencie
 git clone https://github.com/your-username/smartdiag.git
 cd smartdiag
 pip install -r requirements.txt
+
+
+Usage
+
+Run the app using Streamlit:
+
+streamlit run app.py
